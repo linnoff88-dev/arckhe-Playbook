@@ -1,4 +1,4 @@
-﻿# AI Consulting Playbook - Interactive Learning Platform
+# AI Consulting Playbook - Interactive Learning Platform
 
 ## Project Overview
 - **Name**: AI Consulting Playbook
@@ -245,4 +245,4 @@ Proprietary - All rights reserved
 **Built with â¤ï¸ for AI Consultants**
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto  - ARCKHÉe
